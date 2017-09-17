@@ -14,4 +14,3 @@ rm -f config.status
 ./configure.sh
 
 make -j4
-
